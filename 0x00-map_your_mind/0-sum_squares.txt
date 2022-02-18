@@ -1,0 +1,5 @@
+1. program start
+2. declare function that recieves two parameters of a,b
+3. Multiply a by itself and assign to c
+4. Multiply b by itself and assign to d
+5. return the sum of c & d
