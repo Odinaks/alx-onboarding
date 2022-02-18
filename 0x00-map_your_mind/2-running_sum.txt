@@ -1,0 +1,5 @@
+﻿﻿1. start program
+2. input number
+3. check if number is negative
+4. end program and return number if true
+5. else add number to previous number

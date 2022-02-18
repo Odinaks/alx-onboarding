@@ -1,5 +1,7 @@
-1. program start
-2. declare function that recieves two parameters of a,b
-3. Multiply a by itself and assign to c
-4. Multiply b by itself and assign to d
-5. return the sum of c & d
+
+1. Create an Input variable
+2. assign input variable number to be squared
+3. multiply number by itself
+4. output variable
+
+
